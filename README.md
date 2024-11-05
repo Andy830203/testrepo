@@ -1,3 +1,3 @@
 # testrepo
 
-## assignment 
+## assignment of Coursera course
